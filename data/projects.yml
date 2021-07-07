@@ -1,0 +1,21 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    name: ERSO group website
+    description: Website for the Educational Research into the Social and Online (ERSO) group.
+    url: https://github.com/ERSO-group/erso-website-build
+
+  - icon: fa fa-github
+    name: Project 2
+    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
+    url: https://github.com/ERSO-group/
+    
+  - icon: fa fa-globe
+    name: Project 3
+    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+    url: https://github.com/ERSO-group/
+    
+  - icon: fa fa-cog
+    name: Project 4
+    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+    url: https://github.com/ERSO-group/
