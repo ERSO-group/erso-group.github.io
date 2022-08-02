@@ -2,61 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://erso-group.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erso-group.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://erso-group.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erso-group.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://erso-group.github.io/tags/analytics/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erso-group.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://erso-group.github.io/tags/data/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erso-group.github.io/news/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://erso-group.github.io/post/data-analytics-tools/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erso-group.github.io/news/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://erso-group.github.io/tags/padlet/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erso-group.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://erso-group.github.io/post/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://erso-group.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erso-group.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://erso-group.github.io/tags/tools/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erso-group.github.io/tags/learning-analytics/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erso-group.github.io/tags/new-paper/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erso-group.github.io/post/new-paper-balancing-open-science-and-privacy/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erso-group.github.io/tags/open-science/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://erso-group.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erso-group.github.io/news/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erso-group.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erso-group.github.io/news/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erso-group.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://erso-group.github.io/categories/</loc>
   </url><url>
     <loc>https://erso-group.github.io/people/</loc>
   </url><url>
-    <loc>https://erso-group.github.io/tags/people/</loc>
-  </url><url>
-    <loc>https://erso-group.github.io/categories/people/</loc>
-  </url><url>
     <loc>https://erso-group.github.io/projects/</loc>
   </url><url>
-    <loc>https://erso-group.github.io/tags/projects/</loc>
+    <loc>https://erso-group.github.io/tags/index/</loc>
   </url><url>
-    <loc>https://erso-group.github.io/categories/projects/</loc>
+    <loc>https://erso-group.github.io/series/</loc>
   </url>
 </urlset>

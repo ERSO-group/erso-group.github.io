@@ -1,37 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ERSO Group on ERSO group</title>
+    <title>ERSO Group</title>
     <link>https://erso-group.github.io/</link>
-    <description>Recent content in ERSO Group on ERSO group</description>
+    <description>Recent content on ERSO Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://erso-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://erso-group.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://erso-group.github.io/news/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Data Analytics Tools</title>
+      <link>https://erso-group.github.io/post/data-analytics-tools/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/news/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://erso-group.github.io/post/data-analytics-tools/</guid>
+      
+        <description>
+ </description>
+      
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://erso-group.github.io/news/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>New paper: Balancing open science and privacy in the context of learning analytics</title>
+      <link>https://erso-group.github.io/post/new-paper-balancing-open-science-and-privacy/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/news/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>https://erso-group.github.io/post/new-paper-balancing-open-science-and-privacy/</guid>
+      
+        <description>Background I (Dr. Bret) recently co-authored (with Josh Rosenberg) a response to a valuable paper by Ifenthaler and Schumacher (2016) as a part of a special issue of Educational Technology Research &amp;amp; Development on &amp;ldquo;Shifting to Digital&amp;rdquo; in light of the COVID-19 pandemic.</description>
+      
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://erso-group.github.io/news/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>ERSO People</title>
+      <link>https://erso-group.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/news/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>https://erso-group.github.io/people/</guid>
+      
+        <description>Dr. Bret Staudt Willet I am an Assistant Professor of Instructional Systems &amp;amp; Learning Technologies at Florida State University.</description>
+      
+    </item>
+    
+    <item>
+      <title>ERSO Projects</title>
+      <link>https://erso-group.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erso-group.github.io/projects/</guid>
+      
+        <description>Networked learning in online communities Representative Publications  Staudt Willet, K.</description>
+      
     </item>
     
   </channel>

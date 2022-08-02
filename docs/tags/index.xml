@@ -1,82 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ERSO group</title>
+    <title>Tags on ERSO Group</title>
     <link>https://erso-group.github.io/tags/</link>
-    <description>Recent content in Tags on ERSO group</description>
+    <description>Recent content in Tags on ERSO Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://erso-group.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://erso-group.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://erso-group.github.io/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>analytics</title>
+      <link>https://erso-group.github.io/tags/analytics/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/tags/css/</guid>
-      <description></description>
+      <guid>https://erso-group.github.io/tags/analytics/</guid>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://erso-group.github.io/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>data</title>
+      <link>https://erso-group.github.io/tags/data/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/tags/html/</guid>
-      <description></description>
+      <guid>https://erso-group.github.io/tags/data/</guid>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://erso-group.github.io/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>padlet</title>
+      <link>https://erso-group.github.io/tags/padlet/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/tags/markdown/</guid>
-      <description></description>
+      <guid>https://erso-group.github.io/tags/padlet/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://erso-group.github.io/tags/tools/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://erso-group.github.io/tags/tools/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>learning analytics</title>
+      <link>https://erso-group.github.io/tags/learning-analytics/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erso-group.github.io/tags/learning-analytics/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>new paper</title>
+      <link>https://erso-group.github.io/tags/new-paper/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erso-group.github.io/tags/new-paper/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://erso-group.github.io/tags/open-science/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erso-group.github.io/tags/open-science/</guid>
+      
+        <description></description>
+      
     </item>
     
     <item>
       <title>privacy</title>
       <link>https://erso-group.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://erso-group.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://erso-group.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://erso-group.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <description></description>
       
-      <guid>https://erso-group.github.io/tags/text/</guid>
-      <description></description>
     </item>
     
     <item>
-      <title>people</title>
-      <link>https://erso-group.github.io/tags/people/</link>
+      <title>index</title>
+      <link>https://erso-group.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/tags/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://erso-group.github.io/tags/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://erso-group.github.io/tags/index/</guid>
       
-      <guid>https://erso-group.github.io/tags/projects/</guid>
-      <description></description>
+        <description></description>
+      
     </item>
     
   </channel>
