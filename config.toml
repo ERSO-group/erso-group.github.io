@@ -1,7 +1,8 @@
-baseURL = "https://erso-group.github.io/"
-languageCode = "en-us"
-title = "ERSO group"
-theme = "sustain"
+baseURL = 'https://erso-group.github.io/'
+languageCode = 'en-us'
+title = 'ERSO group'
+theme = 'sustain'
+publishDir = 'docs'
 
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
@@ -12,7 +13,7 @@ googleAnalytics = ""
 [params]
   avatar = "img/ERSO-group-logo-M.png"
   author = "Bret Staudt Willet"
-  description = "ERSO group's homepage created with blogdown and Hugo, featuring the Sustain theme."
+  description = "ERSO Group's homepage created with blogdown and Hugo, featuring the Sustain theme."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = ["my.css"]
@@ -36,8 +37,8 @@ googleAnalytics = ""
   url = "/news/"
 [[menu.main]]
   name = "projects"
-  identifier = "projects"
   weight = 200
+  identifier = "projects"
   url = "/projects/"
 [[menu.main]]
   name = "people"
