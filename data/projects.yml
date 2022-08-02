@@ -1,21 +1,33 @@
 name: Projects
 source:
   - icon: fa fa-github
-    name: ERSO group website
-    description: Website for the Educational Research into the Social and Online (ERSO) group.
-    url: https://github.com/ERSO-group/erso-website-build
+    name: Networked learning in online communities
+    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
+    url: https://erso-group.github.io/projects/
 
   - icon: fa fa-github
-    name: Project 2
+    name: Design, development, and evaluation of learning environments, experiences, and technologies
     description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
-    url: https://github.com/ERSO-group/
+    url: https://erso-group.github.io/projects/
     
   - icon: fa fa-globe
-    name: Project 3
+    name: New teachers' induction support systems
     description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
-    url: https://github.com/ERSO-group/
+    url: https://erso-group.github.io/projects/
     
   - icon: fa fa-cog
-    name: Project 4
+    name: Teachers' computational-thinking competencies
     description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
-    url: https://github.com/ERSO-group/
+    url: https://erso-group.github.io/projects/
+    
+  - icon: fa fa-cog
+    name: Educators as data scientists
+    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+    url: https://erso-group.github.io/projects/
+    
+  - icon: fa fa-cog
+    name: Educators' informal learning and invisible labor
+    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+    url: https://erso-group.github.io/projects/
+    
+    
