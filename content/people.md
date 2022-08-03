@@ -1,5 +1,5 @@
 ---
-title: "ERSO People"
+title: "People"
 date: "`r Sys.time()`"
 thumbnail: ""
 Description: ""
