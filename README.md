@@ -5,8 +5,9 @@ Website for the [Educational Research into the Social and Online](https://erso-g
 Broadly, our research investigates self-directed learning, especially by teachers. This focus covers areas including:
 
 - Networked learning in online communities, such as those hosted by Twitter and Reddit.
-- Factors that impact student outcomes and how to integrate them into the design, development, and evaluation of learning environments, experiences, and technologies.
+- Social, cognitive, and instructional factors that impact student outcomes and how to integrate them into the design, development, and evaluation of learning environments, experiences, and technologies.
 - New teachers' induction support systems.
-- Teachers' computational-thinking competencies.
+- Computing education in K12.
 - Educators as data scientists.
 - Educators' informal learning and invisible labor.
+- Instructional designer training.
