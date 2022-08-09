@@ -138,3 +138,16 @@ Data science and learning analytics in education are useful, but we have limited
 ### Works-in-Progress
 
 <i class="fas fa-file-alt"></i> Interrogating education research through an invisible labor lens
+
+---
+
+## Applying systematic reviews in educational research 
+
+<img src="/images/networked-learning.png" align="left" style="padding: 10px;" width="240" alt="Many threads connected as a web">
+
+### Representative Publications
+
+<i class="fas fa-file-alt"></i> Maeda, Y., Caskurlu, S., Kozan, K. Kenney, R., & Richardson, J.C. (2022). Moving qualitative synthesis research forward in education. *Educational Research Review*.
+
+<i class="fas fa-file-alt"></i> Maeda, Y., Caskurlu, S., Kozan, K., & Kenney, R. H. (2022). A critical appraisal tool
+development for reporting quality in qualitative syntheses: A worked example. *Quality & Quantity*.
