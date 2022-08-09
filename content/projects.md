@@ -56,9 +56,9 @@ evidence of factors influencing students’ online learning experiences through 
 
 ### Representative Publications
 
-<i class="fas fa-file-alt"></i> Richardson, J. C., Caskurlu, S., Castellanos-Reyes, D., Duan, S., Duha, M., Fiock, H., &, Long, Y. (2021). Instructors’ conceptualization and implementation of scaffolding in online higher education courses. *Journal of Computing in Higher Education
+<i class="fas fa-file-alt"></i> Richardson, J. C., Caskurlu, S., Castellanos-Reyes, D., Duan, S., Duha, M., Fiock, H., &, Long, Y. (2021). Instructors’ conceptualization and implementation of scaffolding in online higher education courses. *Journal of Computing in Higher Education*
 
-<i class="fas fa-file-alt"></i> Caskurlu, S., Richardson, J.C., Alamri, H. A., Chartier, K., Farmer, T. S., Janakiraman, S., Strait, M., Yang, M. (2021). Cognitive load and online course quality: Insights from instructional designers in a higher education context. *British Journal of Educational Technology
+<i class="fas fa-file-alt"></i> Caskurlu, S., Richardson, J.C., Alamri, H. A., Chartier, K., Farmer, T. S., Janakiraman, S., Strait, M., Yang, M. (2021). Cognitive load and online course quality: Insights from instructional designers in a higher education context. *British Journal of Educational Technology*
 
 ---
 
