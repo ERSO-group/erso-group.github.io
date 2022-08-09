@@ -36,6 +36,8 @@ DisableComments: true
 
 <i class="fas fa-file-alt"></i> 
 
+---
+
 ## Design, development, and evaluation of learning environments, experiences, and technologies
 
 <img src="/images/networked-learning.png" align="left" style="padding: 10px;" width="240" alt="Many threads connected as a web">
@@ -44,6 +46,8 @@ DisableComments: true
 
 <i class="fas fa-file-alt"></i> Caskurlu, S. & Ashby, I. (2018). Integrated learning and assessment system in competency-
 based higher education program. *International Journal of Learning Technology, 13*(4), 352- 368.
+
+---
 
 ## New teachers' induction support systems
 
@@ -69,6 +73,7 @@ New teachers face numerous decisions as they transition from teacher preparation
 
 <i class="fas fa-file-alt"></i> 
 
+---
 
 ## Educators as data scientists
 
