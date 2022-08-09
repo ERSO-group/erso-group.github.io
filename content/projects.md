@@ -28,15 +28,22 @@ DisableComments: true
 
 ---
 
+## Social, cognitive, and instructional factors that impact students' learning expereinces in technolpgy-rich learning environments
+
+<img src="/images/networked-learning.png" align="left" style="padding: 10px;" width="240" alt="Many threads connected as a web">
+
+### Representative Publications
+
+<i class="fas fa-file-alt"></i> 
+
 ## Design, development, and evaluation of learning environments, experiences, and technologies
 
 <img src="/images/networked-learning.png" align="left" style="padding: 10px;" width="240" alt="Many threads connected as a web">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Representative Publications
 
-[{{< fa globe >}}](https://erso-group.github.io/projects/)
-
----
+<i class="fas fa-file-alt"></i> Caskurlu, S. & Ashby, I. (2018). Integrated learning and assessment system in competency-
+based higher education program. *International Journal of Learning Technology, 13*(4), 352- 368.
 
 ## New teachers' induction support systems
 
@@ -54,13 +61,14 @@ New teachers face numerous decisions as they transition from teacher preparation
 
 ---
 
-## Teachers' computational-thinking competencies
+## Computing education in K-12 
 
 <img src="/images/networked-learning.png" align="left" style="padding: 10px;" width="240" alt="Many threads connected as a web">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Representative Publications
 
----
+<i class="fas fa-file-alt"></i> 
+
 
 ## Educators as data scientists
 
