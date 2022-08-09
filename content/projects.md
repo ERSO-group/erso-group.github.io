@@ -46,7 +46,19 @@ evidence of factors influencing students’ online learning experiences through 
 <i class="fas fa-file-alt"></i> Richardson, J. C., Maeda, Y., Lv, J, & Caskurlu, S. (2017). Social presence in relation to students’ satisfaction and learning in the online environment: A narrative synthesis and meta-analysis. *Computers in Human Behavior, 71*, 402-417. *(Note: All authors contributed equally to this manuscript, and authors are listed in reverse alphabetical order*
 
 ### Works-in-Progress
-<i class="fas fa-file-alt"></i> Cognitive presence in relation to students’ satisfaction and learning in the online environment: A narrative synthesis and meta-analysis
+<i class="fas fa-file-alt"></i> Cognitive presence in relation to students’ satisfaction and learning in the online environment: A meta-analysis
+
+---
+
+## Applying cognitive science principles to online teaching and learning 
+
+<img src="/images/networked-learning.png" align="left" style="padding: 10px;" width="240" alt="Many threads connected as a web">
+
+### Representative Publications
+
+<i class="fas fa-file-alt"></i> Richardson, J. C., Caskurlu, S., Castellanos-Reyes, D., Duan, S., Duha, M., Fiock, H., &, Long, Y. (2021). Instructors’ conceptualization and implementation of scaffolding in online higher education courses. *Journal of Computing in Higher Education
+
+<i class="fas fa-file-alt"></i> Caskurlu, S., Richardson, J.C., Alamri, H. A., Chartier, K., Farmer, T. S., Janakiraman, S., Strait, M., Yang, M. (2021). Cognitive load and online course quality: Insights from instructional designers in a higher education context. *British Journal of Educational Technology
 
 ---
 
