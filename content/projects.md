@@ -36,10 +36,14 @@ DisableComments: true
 
 <i class="fas fa-file-alt"></i> Caskurlu, S., Richardson, J. C., Maeda, Y., & Kozan, K. (2021). Synthesis of qualitative
 evidence of factors influencing students’ online learning experiences through the Community of Inquiry. * Computers and Education, 165*, 104111. https://doi.org/10.1016/j.compedu.2020.104111
+
 <i class="fas fa-file-alt"></i> Caskurlu, S., Maeda, Y., Richardson, J. C., & Lv, J. (2020). Teaching presence in relation to students’ satisfaction and learning in the online environment: A narrative synthesis and meta-analysis. *Computers and Education, 157*, 103966
+
 <i class="fas fa-file-alt"></i> Caskurlu, S. (2018). Confirming the subdimensions of teaching, social, and cognitive presences: A construct validity study. *The Internet and Higher Education, 39*, 1-12.
+
 <i class="fas fa-file-alt"></i> Kozan, K. & Caskurlu, S. (2018). On the Nth presence for the Community of Inquiry Framework. *Computers and Education, 122*, 104-118.
-Richardson, J. C., Maeda, Y., Lv, J, & Caskurlu, S. (2017). Social presence in relation to students’ satisfaction and learning in the online environment: A narrative synthesis and meta-analysis. *Computers in Human Behavior, 71*, 402-417. *(Note: All authors contributed equally to this manuscript, and authors are listed in reverse alphabetical order*
+
+<i class="fas fa-file-alt"></i> Richardson, J. C., Maeda, Y., Lv, J, & Caskurlu, S. (2017). Social presence in relation to students’ satisfaction and learning in the online environment: A narrative synthesis and meta-analysis. *Computers in Human Behavior, 71*, 402-417. *(Note: All authors contributed equally to this manuscript, and authors are listed in reverse alphabetical order*
 
 ### Works-in-Progress
 <i class="fas fa-file-alt"></i> Cognitive presence in relation to students’ satisfaction and learning in the online environment: A narrative synthesis and meta-analysis
