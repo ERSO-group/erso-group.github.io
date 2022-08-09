@@ -83,7 +83,15 @@ New teachers face numerous decisions as they transition from teacher preparation
 
 ### Representative Publications
 
-<i class="fas fa-file-alt"></i> 
+<i class="fas fa-file-alt"></i> Caskurlu, S., Yadav, A., Santo, R., Dunbar, K. (2021). Professional development as a bridge between teacher competencies and computational thinking integration. In A. Yadav & U. Berthelsen (Eds). *Computational thinking in compulsory education: A pedagogical perspective.* Taylor and Francis.
+
+<i class="fas fa-file-alt"></i> Caskurlu, S., Yadav, A., Santo, R. (2021). Preparing Teachers for Computational thinking integration in K-12: A meta-aggregation. Proceedings of the 52nd ACM Technical Symposium on Computer Science Education. (Virtual Event, USA)
+
+### Works-in-Progress
+
+<i class="fas fa-file-alt"></i> Computational thinking integration pathways in middle school Language Arts classrooms
+
+<i class="fas fa-file-alt"></i> Using conjecture mapping to develop teacher professional development to integrate computational thinking in Social Studies, Arts, and Language Arts classrooms 
 
 ---
 
