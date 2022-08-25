@@ -28,7 +28,7 @@ DisableComments: true
 
 ---
 
-## Social, cognitive, and instructional factors that impact students' learning expereinces 
+## Social, cognitive, and instructional factors that impact students' learning experiences 
 
 <img src="/images/networked-learning.png" align="left" style="padding: 10px;" width="240" alt="Many threads connected as a web">
 

@@ -35,6 +35,21 @@ My main research interest focuses on the social, cognitive, and instructinal fac
 
 ---
 
+## Melissa Jones
+
+<img src="/images/melissa-jones.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Melissa Jones">
+
+I am a doctoral candidate in the ISLT program at Florida State University.  
+
+I have worked in higher education since 2007 and have held a variety of both faculty and staff positions. Each of these roles has contributed to my understanding of universities as dynamic systems and has greatly influenced my research agenda.  
+
+From a systems perspective, I am interested in the implementation of initiatives that focus on engaging and supporting historically marginalized populations in higher education. More specifically, as conversations regarding belonging and equity continue to evolve, how are these initiatives impacting the work of faculty? And for those faculty working to create more inclusive learning environments, what types of professional development activities are they participating in? Lastly, recognizing that professional development may include both formal and informal learning, how are designers and facilitators of DEI-focused programming navigating the increasingly complex influence of institutional, social, and political systems?  
+
+[{{< fa globe >}} Visit Melissa's website](https://www.melissakjones.com/) | 
+[{{< fa file-download >}} Download CV](/files/cv-melissa-jones-14aug22.pdf)
+
+---
+
 ## Hunhui Na
 
 ---
