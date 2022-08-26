@@ -50,6 +50,18 @@ From a systems perspective, I am interested in the implementation of initiatives
 
 ---
 
+## Hui Shi
+
+<img src="/images/hui-shi.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Hui Shi">
+
+I am a second year Ph.D. student in the ISLT program at Florida State University. I earned my M.S. in Education Information Technology at East China Normal University in Shanghai, China.
+
+My first research interest focuses on exploring student self-regulated learning, participation, and interactive behaviors in online learning contexts using data mining techniques. Specifically, I am interested in investigating what behavioral factors can determine successful academic performance and how students behave differently between successful and unsuccessful groups. My second research interest focuses on building student performance prediction models to improve automatic evaluation and the quality of teaching support in large-scale online courses.
+
+[{{< fa file-download >}} Download CV](/files/cv-hui-shi.docx)
+
+---
+
 ## Hunhui Na
 
 ---
