@@ -62,13 +62,8 @@ My first research interest focuses on exploring student self-regulated learning,
 
 ---
 
-## Hunhui Na
-
----
-
-## Dan He
-
----
-
 ## Jiabei Xu
+
+<img src="/images/jiabei-xu.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Jiabei Xu">
+
 
