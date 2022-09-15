@@ -50,6 +50,16 @@ From a systems perspective, I am interested in the implementation of initiatives
 
 ---
 
+## Dan He
+
+<img src="/images/dan-he.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Dan He">
+
+I am a doctoral candidate in the ISLT program at FSU. I joined the program in 2019 after I earned my master’s degree in Foreign and Second Language Education at FSU in 2018.
+
+My current research interests include international students’ use of social media for learning and cross-cultural adaptation, inclusive online course designs, and educators’ professional learning networks and professional development. The projects I have collaborated on with professors and fellow students include graduate students’ experiences of othering, networked knowledge activities, educators’ professional learning networks, invisible labor, and graduate teaching assistants. I teach an undergraduate course on educational technology and TA for several graduate-level courses in instructional design. My academic endeavors are devoted to creating learning environments that foster diversity, inclusion, and equity.
+
+---
+
 ## Hui Shi
 
 <img src="/images/hui-shi.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Hui Shi">
