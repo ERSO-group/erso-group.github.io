@@ -76,4 +76,8 @@ My first research interest focuses on exploring student self-regulated learning,
 
 <img src="/images/jiabei-xu.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Jiabei Xu">
 
+I am a Ph.D. student in the Instructional Systems & Learning Technologies (ISLT) program at Florida State University College of Education. 
 
+My research interest integrated instructional design, game-based learning, and learning analytics in training and professional development for graduate teaching assistants (GTA) in higher education. My current focus is designing and applying game-based adaptive training environments for GTA teaching preparation and professional development. I am conducting individual research and working collaboratively with my peers on this topic. I have been working as the TA for online courses in our department for the past semesters; meanwhile, I have been working with my advisor Dr. Fengfeng Ke on several NSF-funded projects in game-based mathematical education in K-12 settings. My current research agenda for my dissertation consists of 1. The study of game-based adaptive training design for GTA (ongoing), 2. Learning analytics in GTA informal learning in the online community of practice (Co.P.), 3. The application of learning analytics results in the iteration of adaptive training design for GTAs.
+
+Before joining the ISLT Ph.D. program in 2021, I gained two Master’s degrees in Second Language Education (2015) and Instructional Systems & Learning Technologies (2020) from FSU. 
