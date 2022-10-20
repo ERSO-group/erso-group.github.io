@@ -10,7 +10,7 @@ DisableComments: true
 
 ## Dr. Bret Staudt Willet
 
-<img src="/images/bretsw.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Dr. Bret Staudt Willet">
+<img src="/images/bretsw.jpg" width="240px" alt="Headshot of Dr. Bret Staudt Willet">
 
 I am an Assistant Professor of Instructional Systems & Learning Technologies at Florida State University.
 
@@ -25,7 +25,7 @@ I have several ongoing projects on self-directed learning. First, I examine netw
 
 ## Dr. Secil Caskurlu
 
-<img src="/images/secil-caskurlu.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Dr. Secil Caskurlu">
+<img src="/images/secil-caskurlu.jpg" width="240" alt="Headshot of Dr. Secil Caskurlu">
 
 I am an Assistant Professor of Instructional Systems & Learning Technologies at Florida State University.
 
@@ -37,13 +37,13 @@ My main research interest focuses on the social, cognitive, and instructinal fac
 
 ## Melissa Jones
 
-<img src="/images/melissa-jones.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Melissa Jones">
+<img src="/images/melissa-jones.jpg" width="240" alt="Headshot of Melissa Jones">
 
-I am a doctoral candidate in the ISLT program at Florida State University.  
+I am a doctoral candidate in the ISLT program at Florida State University.
 
-I have worked in higher education since 2007 and have held a variety of both faculty and staff positions. Each of these roles has contributed to my understanding of universities as dynamic systems and has greatly influenced my research agenda.  
+I have worked in higher education since 2007 and have held a variety of both faculty and staff positions. Each of these roles has contributed to my understanding of universities as dynamic systems and has greatly influenced my research agenda.
 
-From a systems perspective, I am interested in the implementation of initiatives that focus on engaging and supporting historically marginalized populations in higher education. More specifically, as conversations regarding belonging and equity continue to evolve, how are these initiatives impacting the work of faculty? And for those faculty working to create more inclusive learning environments, what types of professional development activities are they participating in? Lastly, recognizing that professional development may include both formal and informal learning, how are designers and facilitators of DEI-focused programming navigating the increasingly complex influence of institutional, social, and political systems?  
+From a systems perspective, I am interested in the implementation of initiatives that focus on engaging and supporting historically marginalized populations in higher education. More specifically, as conversations regarding belonging and equity continue to evolve, how are these initiatives impacting the work of faculty? And for those faculty working to create more inclusive learning environments, what types of professional development activities are they participating in? Lastly, recognizing that professional development may include both formal and informal learning, how are designers and facilitators of DEI-focused programming navigating the increasingly complex influence of institutional, social, and political systems?
 
 [{{< fa globe >}} Visit Melissa's website](https://www.melissakjones.com/) | 
 [{{< fa file-download >}} Download CV](/files/cv-melissa-jones-14aug22.pdf)
@@ -52,7 +52,7 @@ From a systems perspective, I am interested in the implementation of initiatives
 
 ## Dan He
 
-<img src="/images/dan-he.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Dan He">
+<img src="/images/dan-he.jpg" width="240" alt="Headshot of Dan He">
 
 I am a doctoral candidate in the ISLT program at FSU. I joined the program in 2019 after I earned my master’s degree in Foreign and Second Language Education at FSU in 2018.
 
@@ -62,7 +62,7 @@ My current research interests include international students’ use of social me
 
 ## Hui Shi
 
-<img src="/images/hui-shi.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Hui Shi">
+<img src="/images/hui-shi.jpg" width="240" alt="Headshot of Hui Shi">
 
 I am a second year Ph.D. student in the ISLT program at Florida State University. I earned my M.S. in Education Information Technology at East China Normal University in Shanghai, China.
 
@@ -74,10 +74,27 @@ My first research interest focuses on exploring student self-regulated learning,
 
 ## Jiabei Xu
 
-<img src="/images/jiabei-xu.jpg" align="left" style="padding: 10px;" width="240" alt="Headshot of Jiabei Xu">
+<img src="/images/jiabei-xu.jpg" width="240" alt="Headshot of Jiabei Xu">
 
 I am a Ph.D. student in the Instructional Systems & Learning Technologies (ISLT) program at Florida State University College of Education. 
 
 My research interest integrated instructional design, game-based learning, and learning analytics in training and professional development for graduate teaching assistants (GTA) in higher education. My current focus is designing and applying game-based adaptive training environments for GTA teaching preparation and professional development. I am conducting individual research and working collaboratively with my peers on this topic. I have been working as the TA for online courses in our department for the past semesters; meanwhile, I have been working with my advisor Dr. Fengfeng Ke on several NSF-funded projects in game-based mathematical education in K-12 settings. My current research agenda for my dissertation consists of 1. The study of game-based adaptive training design for GTA (ongoing), 2. Learning analytics in GTA informal learning in the online community of practice (Co.P.), 3. The application of learning analytics results in the iteration of adaptive training design for GTAs.
 
-Before joining the ISLT Ph.D. program in 2021, I gained two Master’s degrees in Second Language Education (2015) and Instructional Systems & Learning Technologies (2020) from FSU. 
+Before joining the ISLT Ph.D. program in 2021, I gained two Master’s degrees in Second Language Education (2015) and Instructional Systems & Learning Technologies (2020) from FSU.
+
+---
+
+## Jaesung Hur
+
+<img src="/images/jaesung-hur.jpg" width="240" alt="Headshot of Jaesung Hur">
+
+I graduated with my M.S. in Instructional Systems and Learning Technologies at FSU, and now I am a Ph.D. student in the same program.
+
+I studied Educational Technology and worked as an instructional designer at a company in South Korea. I developed instructional materials for K-12 students and teachers’ guidebooks. During my internships in the US, I created e-learning modules and reviewed the online course based on Quality Matters. I love instructional design and my teaching assistant jobs since I can assist instructors and learners with attractive deliverables while expressing my creativity and professionalism.
+
+I am interested in instructors’ and learners’ engagement in online teaching and learning in higher education. Learners’ motivation and participation are essential to learning experience and outcomes. Given that online courses should be carefully and systematically designed to provide an optimal learning experience, I hope to investigate instructional strategies and interventions to boost student engagement.
+
+I am currently involved in projects on instructors’ perception of students’ participation, students’ feelings of othering, webcam usages, college students’ social media use and emotion, teaching assistants’ challenges and training needs, and instructional designers’ perception and experiences in learning analytics. I also plan to examine students’ minimal participation, TAs’ self-efficacy, online memes, and students’ motivation and emotions using epistemic network analysis (ENA).
+
+[ {{< fa fab twitter >}} @jaesssung](https://twitter.com/jaesssung) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/jaesung-hur-679a791ab/)
