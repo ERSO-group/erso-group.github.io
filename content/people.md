@@ -98,3 +98,13 @@ I am currently involved in projects on instructors’ perception of students’ 
 
 [ {{< fa fab twitter >}} @jaesssung](https://twitter.com/jaesssung) | 
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/jaesung-hur-679a791ab/)
+
+---
+
+## Hunhui Na
+
+<img src="/images/hunhui-na.jpg" width="240" alt="Headshot of Hunhui Na">
+
+I am a Ph.D. student in the Instructional Systems & Learning Technologies (ISLT) program at Florida State University College of Education. I earned my master’s degree in elementary mathematics education at Seoul National University of Education in Seoul, Korea.
+
+My current research focuses on educators’ use of social media. Specifically, I investigate how and why early career teachers (including pre-service teachers) participate in online communities for their professional learning, and how to leverage the affordances of social media to support their professional development. Related to the use of social media for learning, I am also interested in Scratch where students can develop computational thinking skills online. Viewing Scratch as an online community for students, I explore how students’ interactions are related to developing their computational thinking skills. Designing immersive learning environments for STEM+CS education is my other research interest. Specifically, I am interested in designing Augmented Reality learning experiences for mathematics and computer science education, and understanding teachers’ role in integrating immersive technology in classroom contexts.
