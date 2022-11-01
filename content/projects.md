@@ -8,7 +8,7 @@ Categories: []
 DisableComments: true
 ---
 
-## Networked learning in online communities
+## Affinity spaces hosted in web forums and social media
 
 <img src="/images/networked.png" align="left" style="padding: 10px;" width="240" alt="Mobile phone with the social media app Twitter icon shown">
 
