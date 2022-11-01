@@ -14,9 +14,11 @@ DisableComments: true
 
 I am an Assistant Professor of Instructional Systems & Learning Technologies at Florida State University.
 
-My research investigates **self-directed learning**, especially by teachers. I'm most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do *after* they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
+My research investigates **self-directed networked learning**. I’m most interested in what happens when our students, learners, and trainees finish the instruction and training we design for them. What do they do after they walk out the door or log off? How do they continue to develop the knowledge, skills, and abilities they need? Where do they look for resources? Who do they talk to?
 
-I have several ongoing projects on self-directed learning. First, I examine networked learning in online communities, such as those hosted by Twitter and Reddit. Second, I study how new teachers expand their professional support systems during their induction transition. Third, I seek to understand educators' experiences as data scientists. Fourth, I interrogate educators' informal learning as a form of invisible labor.
+My work on self-directed networked learning covers several dimensions, outlined by the categories proposed professional learning networks (PLNs): the connections and interactions between resources, people, and spaces. I study resources, people, and spaces with methods drawn from learning analytics and social network analysis.
+
+My projects explore **resources** in terms of informal learning (e.g., possibilities for beginning teachers developing support systems) and invisible labor (e.g., perils for figuring things out outside work hours), **people** in terms of social connections and interactions (e.g., online groups, communities of practice, educators learning to identify as data scientists), and **spaces** in terms of affinity spaces hosted in web forums and social media (e.g., Reddit, Twitter).
 
 [{{< fa globe >}} Visit Dr. Bret's website](https://bretsw.com) | 
 [{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
@@ -57,6 +59,10 @@ From a systems perspective, I am interested in the implementation of initiatives
 I am a doctoral candidate in the ISLT program at FSU. I joined the program in 2019 after I earned my master’s degree in Foreign and Second Language Education at FSU in 2018.
 
 My current research interests include international students’ use of social media for learning and cross-cultural adaptation, inclusive online course designs, and educators’ professional learning networks and professional development. The projects I have collaborated on with professors and fellow students include graduate students’ experiences of othering, networked knowledge activities, educators’ professional learning networks, invisible labor, and graduate teaching assistants. I teach an undergraduate course on educational technology and TA for several graduate-level courses in instructional design. My academic endeavors are devoted to creating learning environments that foster diversity, inclusion, and equity.
+
+[{{< fa globe >}} Visit Dan's website](https://danhe16e.weebly.com/) | 
+[{{< fa globe >}} Visit the MEME research group website](http://meme.create.fsu.edu/dan-he/) | [ {{< fa fab twitter >}} @Dan__He](https://twitter.com/Dan__He) | [ {{< fa fab instagram >}} @dan.islt](https://www.instagram.com/dan.islt/) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/danhe-fsu-edu/)
 
 ---
 
