@@ -88,6 +88,9 @@ My research interest integrated instructional design, game-based learning, and l
 
 Before joining the ISLT Ph.D. program in 2021, I gained two Master’s degrees in Second Language Education (2015) and Instructional Systems & Learning Technologies (2020) from FSU.
 
+[ {{< fa fab twitter >}} @JiabeiB](https://twitter.com/JiabeiB) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/jx13/)
+
 ---
 
 ## Jaesung Hur
