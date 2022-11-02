@@ -1,4 +1,4 @@
-baseURL = 'https://erso-group.github.io/'
+baseURL = 'https://erso-group.org/'
 languageCode = 'en-us'
 DefaultContentLanguage = 'en-us'
 title = 'ERSO Group'

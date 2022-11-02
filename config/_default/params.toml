@@ -4,7 +4,7 @@ description = """
 Instructional Systems & Learning Technologies
 Florida State University
 """
-profilePicture = "images/ERSO-group-logo.png"
+profilePicture = "images/erso-group-logo.png"
 keywords = ""
 copyright = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {{ YEAR }}"
 
@@ -55,11 +55,6 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:bret.staudtwillet@fsu.edu"
-
-[[socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/ersogroup"
 
 [[socialIcons]]
 icon = "fab fa-github"

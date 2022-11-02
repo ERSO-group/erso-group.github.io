@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on ERSO Group</title>
-    <link>https://erso-group.github.io/tags/index/</link>
+    <link>https://erso-group.org/tags/index/</link>
     <description>Recent content in index on ERSO Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://erso-group.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://erso-group.org/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://erso-group.github.io/post/</link>
+      <link>https://erso-group.org/post/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://erso-group.github.io/post/</guid>
+      <guid>https://erso-group.org/post/</guid>
       
         <description></description>
       
