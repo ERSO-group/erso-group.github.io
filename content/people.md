@@ -21,7 +21,8 @@ My work on self-directed networked learning covers several dimensions, outlined 
 My projects explore **resources** in terms of informal learning (e.g., possibilities for beginning teachers developing support systems) and invisible labor (e.g., perils for figuring things out outside work hours), **people** in terms of social connections and interactions (e.g., online groups, communities of practice, educators learning to identify as data scientists), and **spaces** in terms of affinity spaces hosted in web forums and social media (e.g., Reddit, Twitter).
 
 [{{< fa globe >}} Visit Dr. Bret's website](https://bretsw.com) | 
-[{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
+[{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/bretsw/)
 
 ---
 
@@ -117,3 +118,18 @@ I am currently involved in projects on instructors’ perception of students’ 
 I am a Ph.D. student in the Instructional Systems & Learning Technologies (ISLT) program at Florida State University College of Education. I earned my master’s degree in elementary mathematics education at Seoul National University of Education in Seoul, Korea.
 
 My current research focuses on educators’ use of social media. Specifically, I investigate how and why early career teachers (including pre-service teachers) participate in online communities for their professional learning, and how to leverage the affordances of social media to support their professional development. Related to the use of social media for learning, I am also interested in Scratch where students can develop computational thinking skills online. Viewing Scratch as an online community for students, I explore how students’ interactions are related to developing their computational thinking skills. Designing immersive learning environments for STEM+CS education is my other research interest. Specifically, I am interested in designing Augmented Reality learning experiences for mathematics and computer science education, and understanding teachers’ role in integrating immersive technology in classroom contexts.
+
+---
+
+## Shiyao Wei
+
+<img src="/images/shiyao-wei.jpg" width="240" alt="Headshot of Shiyao Wei">
+
+I am a first-year Ph.D. student in the College of Education at Florida State University. Previously, I gained my Master's degree in Art and Art Education (Museum Education) at Teachers College, Columbia University, and Bachelor's degree from Communication University of China. My research interests focus on informal learning environments and collaborative learning, and technology-enhanced learning that happens in museums.
+
+I have finished one research project on [bilibili.com](https://www.bilibili.com/), a leading user-generated content video platform in China. The research explores the relationship between Danmaku, flying comments playing on the top of video, and instructors' behaviors, i.e., what kinds of instructors' behavior can bring more learners’ meaningful interaction.
+
+[ {{< fa fab twitter >}} @SY_Wei07](https://twitter.com/SY_Wei07) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/shiyao-wei/)
+
+---
