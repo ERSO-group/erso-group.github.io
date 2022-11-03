@@ -133,3 +133,15 @@ I have finished one research project on [bilibili.com](https://www.bilibili.com/
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/shiyao-wei/)
 
 ---
+
+## Chaewon Kim
+
+<img src="/images/chaewon-kim.jpg" width="240" alt="Headshot of Chaewon Kim">
+
+I am a Ph.D. student in the ISLT program at Florida State University. I earned my M.A. in Educational Technology and Administration at Sogang University in Seoul, Korea. I worked as a public elementary school teacher in Seoul for three years. 
+
+My research interest focuses on game-based learning, mobile-assisted language learning, and implementing AI in public school settings. I developed a mobile gamified prototype for EFL learners with storytelling for my master’s thesis and applied mixed methods to verify its effectiveness in students’ reading comprehension and writing proficiency. Also, I am interested in adaptive learning, learning analytics, and stealth assessment. 
+
+I am currently investigating the dynamic of chatbot usage in EFL classrooms through the [E-rebuild Project](https://mileresearch.coe.fsu.edu/eRebuild/web/) with Dr. Fengfeng Ke and examining interaction patterns between teacher and students in a gamified learning environment.
+
+---
