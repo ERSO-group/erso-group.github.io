@@ -15,25 +15,26 @@ Our name, ERSO, is both an acronym of our research areas as well as a nod to the
 
 ## Research Areas
 
-Broadly, our research investigates **self-directed networked learning**. Our work on self-directed networked learning covers several dimensions, outlined by the categories proposed *professional learning networks* (PLNs): the connections and interactions between resources, people, and spaces.
+Broadly, our research investigates social and online dimensions of education. This focus covers three areas:
 
-### Resources
+### Innovative teaching and learning
 
 - New teachers' induction support systems
-- Social, cognitive, and instructional factors that impact students' learning experiences
-- Applying cognitive science principles to online teaching and learning
 - Computing education in K-12
+- Educators as data scientists
 - Educators' informal learning and invisible labor
 
-### People
+### Online communities
 
-- Online groups
-- Educators as data scientists
+- Affinity spaces hosted in web forums and social media
+- Social, cognitive, and instructional factors that impact students' learning experiences
+- Applying cognitive science principles to online teaching and learning
 
-### Spaces
+### Emerging methods
 
-- Design, development, and evaluation of online learning environments, experiences, and technologies
-- Affinity spaces hosted in web forums and social media (e.g., Reddit, Twitter).
+- Systematic reviews in educational research
+- Learning analytics and social network analysis
+- [tidytags] R package for collecting Twitter data
 
 ![Research Areas](/images/research-areas.jpg)
 
@@ -62,6 +63,7 @@ We encourage you to learn about and amplify the contemporary work of the Indigen
 [Dr. Bret Staudt Willet]: https://bretsw.com/
 [Dr. Secil Caskurlu]: https://secilcaskurlu.wordpress.com/
 [ISLT]: https://education.fsu.edu/islt
+[tidytags]: https://docs.ropensci.org/tidytags/index.html
 [news]: /posts
 [projects]: /projects
 [@ERSOgroup]: https://twitter.com/ERSOgroup

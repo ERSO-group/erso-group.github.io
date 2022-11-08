@@ -22,7 +22,7 @@ My projects explore **resources** in terms of informal learning (e.g., possibili
 
 [{{< fa globe >}} Visit Dr. Bret's website](https://bretsw.com) | 
 [{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=) | 
-[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/bretsw/)
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/bretsw/) | [{{< fa fab mastodon >}} @bretsw@scholar.social](https://scholar.social/@bretsw)
 
 ---
 
@@ -89,7 +89,7 @@ My research interest integrated instructional design, game-based learning, and l
 
 Before joining the ISLT Ph.D. program in 2021, I gained two Master’s degrees in Second Language Education (2015) and Instructional Systems & Learning Technologies (2020) from FSU.
 
-[ {{< fa fab twitter >}} @JiabeiB](https://twitter.com/JiabeiB) | 
+[{{< fa fab twitter >}} @JiabeiB](https://twitter.com/JiabeiB) | 
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/jx13/)
 
 ---
@@ -106,7 +106,7 @@ I am interested in instructors’ and learners’ engagement in online teaching 
 
 I am currently involved in projects on instructors’ perception of students’ participation, students’ feelings of othering, webcam usages, college students’ social media use and emotion, teaching assistants’ challenges and training needs, and instructional designers’ perception and experiences in learning analytics. I also plan to examine students’ minimal participation, TAs’ self-efficacy, online memes, and students’ motivation and emotions using epistemic network analysis (ENA).
 
-[ {{< fa fab twitter >}} @jaesssung](https://twitter.com/jaesssung) | 
+[{{< fa fab twitter >}} @jaesssung](https://twitter.com/jaesssung) | 
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/jaesung-hur-679a791ab/)
 
 ---
@@ -129,7 +129,7 @@ I am a first-year Ph.D. student in the College of Education at Florida State Uni
 
 I have finished one research project on [bilibili.com](https://www.bilibili.com/), a leading user-generated content video platform in China. The research explores the relationship between Danmaku, flying comments playing on the top of video, and instructors' behaviors, i.e., what kinds of instructors' behavior can bring more learners’ meaningful interaction.
 
-[ {{< fa fab twitter >}} @SY_Wei07](https://twitter.com/SY_Wei07) | 
+[{{< fa fab twitter >}} @SY_Wei07](https://twitter.com/SY_Wei07) | 
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/shiyao-wei/)
 
 ---
