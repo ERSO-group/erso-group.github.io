@@ -32,7 +32,7 @@ New teachers face numerous decisions as they transition from teacher preparation
 
 <i class="fas fa-file-alt"></i> Caskurlu, S., Yadav, A., Santo, R., Dunbar, K. (2021). Professional development as a bridge between teacher competencies and computational thinking integration. In A. Yadav & U. Berthelsen (Eds). *Computational thinking in compulsory education: A pedagogical perspective.* Taylor and Francis.
 
-<i class="fas fa-file-alt"></i> Caskurlu, S., Yadav, A., Santo, R. (2021). Preparing Teachers for Computational thinking integration in K-12: A meta-aggregation. Proceedings of the 52nd ACM Technical Symposium on Computer Science Education. (Virtual Event, USA)
+<i class="fas fa-file-alt"></i> Caskurlu, S., Yadav, A., Santo, R. (2021). Preparing Teachers for Computational thinking integration in K-12: A meta-aggregation. *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education*. (Virtual Event, USA)
 
  **Works-in-Progress**
 
@@ -79,6 +79,8 @@ Data science and learning analytics in education are useful, but we have limited
 ### Affinity spaces hosted in web forums and social media
 
 **Representative Publications**
+
+<i class="fas fa-file-alt"></i> Na, H., & Staudt Willet, K. B. (2022). Affinity and anonymity benefitting early career teachers in the r/Teachers subreddit. *Journal of Research on Technology in Education*. doi:[10.1080/15391523.2022.2150727](https://doi.org/10.1080/15391523.2022.2150727)
 
 <i class="fas fa-file-alt"></i> Staudt Willet, K. B., & Carpenter, J. P. (2021). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology, 52*(2), 714-733. doi:[10.1111/bjet.13051](https://doi.org/10.1111/bjet.13051)
 
@@ -146,9 +148,9 @@ Data science and learning analytics in education are useful, but we have limited
 
 **Representative Publications**
 
-<i class="fas fa-file-alt"></i> Staudt Willet, K. B., & Carpenter, J. P. (2021). A tale of two subreddits: Change and continuity in teaching-related online spaces. British Journal of Educational Technology, 52(2), 714-733. doi:10.1111/bjet.13051
+<i class="fas fa-file-alt"></i> Staudt Willet, K. B., & Carpenter, J. P. (2021). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology, 52*(2), 714-733. doi:10.1111/bjet.13051
 
-<i class="fas fa-file-alt"></i> Staudt Willet, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. Journal of Research on Technology in Education, 52(2), 216-233. doi:10.1080/15391523.2020.1722978
+<i class="fas fa-file-alt"></i> Staudt Willet, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education, 52*(2), 216-233. doi:10.1080/15391523.2020.1722978
 
 ---
 
