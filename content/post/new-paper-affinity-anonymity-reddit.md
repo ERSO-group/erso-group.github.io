@@ -1,5 +1,5 @@
 ---
-title: "New paper: Balancing open science and privacy in the context of learning analytics"
+title: "New paper: Affinity and anonymity benefitting early career teachers in the r/teachers subreddit"
 date: 2022-11-30
 author: "Hunhui Na & Dr. Bret Staudt Willet"
 thumbnail: ""
